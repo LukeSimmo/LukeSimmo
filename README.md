@@ -13,8 +13,8 @@ I am currently studying at Curtin University and aim to graduate in 2023, below 
 
 
 <a href="https://github.com/LukeSimmo/OOSE" target = "_blank" rel="noopener noreferrer">
-Object Oriented Software Engineering </a>
+Object Oriented Software Engineering </a></a>
 
- 
+
 <a href="https://github.com/LukeSimmo/UCP" target = "_blank" rel="noopener noreferrer">
-Unix and C Programming </a>
+Unix and C Programming </a></a>
