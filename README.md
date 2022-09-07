@@ -11,4 +11,4 @@
 
 I am currently studying at Curtin University and aim to graduate in 2023, below are repos for programming units I have taken
 <a href="https://github.com/LukeSimmo/OOSE" target = "_blank" rel="noopener noreferrer">
-  <title="Object Oriented Software Engineering"</title>
+  Object Oriented Software Engineering
