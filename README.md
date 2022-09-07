@@ -37,3 +37,10 @@ Mobile Application Development </a>
 
 <br>
 
+<a href="https://github.com/LukeSimmo/ML" target = "_blank" rel="noopener noreferrer">
+Machine Learning </a>
+
+<br>
+
+<a href="https://github.com/LukeSimmo/DC" target = "_blank" rel="noopener noreferrer">
+Distributed Computing </a>
