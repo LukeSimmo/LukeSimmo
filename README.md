@@ -8,7 +8,7 @@
 
 ## Skills
 [![Java](https://img.shields.io/badge/Java-%23FFFFFF.svg?style=flat&logo=gitea&logoColor=%23ED8B00)](https://github.com) [![C/C++](https://img.shields.io/badge/C/C++-%23FFFFFF.svg?style=flat&logo=c%2B%2B&logoColor=%2300599C)](https://github.com) [![Python](https://img.shields.io/badge/Python-%23FFFFFF?style=flat&logo=python&logoColor=3670A0)](https://github.com) [![Android](https://img.shields.io/badge/Android-%23FFFFFF?style=flat&logo=android)](https://github.com)
-[![DOTNET](https://img.shields.io/badge/.NET-%23FFFFFF.svg?style=flat&logo=dotnet&logoColor=4900FF)](https://github.com) [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com)
+[![DOTNET](https://img.shields.io/badge/.NET-%23FFFFFF.svg?style=flat&logo=dotnet&logoColor=4900FF)](https://github.com) [![C#](https://img.shields.io/badge/c%23-%23FFFFFF.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com)
 
 I am currently studying at Curtin University and aim to graduate in 2023, below are repos for programming units I have taken:
 
