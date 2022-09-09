@@ -40,6 +40,6 @@ Machine Learning </a>
 <a href="https://github.com/LukeSimmo/DC" target = "_blank" rel="noopener noreferrer">
 Distributed Computing </a>
 
-<br><br>
+<br>
 
-Some of my person projects can be found here:
+Some of my personal projects can be found here:
