@@ -41,5 +41,6 @@ Machine Learning </a>
 Distributed Computing </a>
 
 <br>
+<br>
 
 Some of my personal projects can be found here:
