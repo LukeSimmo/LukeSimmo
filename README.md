@@ -43,4 +43,4 @@ Distributed Computing </a>
 <br>
 <br>
 
-## Personal Projects
+<h1> Personal Projects </h1>
